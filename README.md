@@ -1,5 +1,7 @@
 In this project, let's build a **Routing Practice** app by applying the concepts we have learned till now.
 
+👉 **Live Demo**: [escrouterdemo.ccbp.tech](https://escrouterdemo.ccbp.tech)
+
 ### Refer to the image below:
 
 <br/>
